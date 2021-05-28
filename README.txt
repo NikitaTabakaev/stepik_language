@@ -1,0 +1,1 @@
+настроен для chrome и firefox
